@@ -1,7 +1,7 @@
 ### Hi There
 
 - 👋 Hi, I’m @LubbaSaha
-- ⚡️ I'm currently working at <a href="https://www.hypescout.co/">HypeScout/</a>
+- ⚡️ I'm currently working at <a href="https://www.hypescout.co/">HypeScout</a>
 - 📫 Reach me: lubbasaha@gmail.com
 
 #
