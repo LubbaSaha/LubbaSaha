@@ -23,17 +23,21 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/php.svg" alt="react" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="react" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="react" style="vertical-align:top; margin:6px">
 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="react" style="vertical-align:top; margin:6px">
 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px">
 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px">
 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/docker.svg" alt="vscode" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/eclipse.svg" alt="vscode" style="vertical-align:top; margin:6px">
 </p>
 
 <p align="center">
