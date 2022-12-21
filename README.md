@@ -48,7 +48,7 @@
 
 <details>
  <summary><h3>👩‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a
+   As a naive computer science student eager to learn everything I could about the world of programming, I began my adventure into coding with JavaScript, PHP, HTML, CSS, and Java.
 </details>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
