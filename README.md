@@ -6,7 +6,7 @@
 
 #
 
-### 📊 Stats
+### 🔥 Stats
 
 <a href="https://github.com/LubbaSaha">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LubbaSaha&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" />
