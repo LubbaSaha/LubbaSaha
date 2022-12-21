@@ -49,7 +49,7 @@
 <details>
  <summary><h3>👩‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a
-
+</details>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
