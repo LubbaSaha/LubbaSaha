@@ -1,16 +1,7 @@
 ### Hello There
 
-- 👋 Hi, I’m @LubbaSaha
+- 👋 Hi, I’m @Lubba
 - 📫 Reach me: lubbasaha@gmail.com
-
-#
-
-### 🔥 Stats
-
-<a href="https://github.com/LubbaSaha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LubbaSaha&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LubbaSaha&layout=compact&theme=radical" />
-</a>
 
 #
 
@@ -45,8 +36,8 @@
 
 #
 
-<details>
- <summary><h3>👩‍💻 My Coding Journey</h3></summary>
-   As a naive computer science student eager to learn everything I could about the world of programming, I began my adventure into coding with JavaScript, PHP, HTML, CSS, and Java.
-</details>
+<div>
+<h3>🌱 My Coding Journey</h3>
+  My coding journey began with a friend who inspired me to explore programming. Since then, I’ve built a strong foundation in JavaScript, TypeScript (OOP), React.js, and Node.js, continuously growing my skills to become a proficient full-stack developer.
+</div>
 
